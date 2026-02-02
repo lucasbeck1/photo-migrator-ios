@@ -1,2 +1,2 @@
-# AnipRenamer
-Rename images to android format
+# photo-standar-names
+A tool for rename your photos to standar format YYYYMMDD-hhmm
